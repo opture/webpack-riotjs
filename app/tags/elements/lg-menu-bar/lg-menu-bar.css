@@ -1,0 +1,12 @@
+.menu-bar {
+  height: 35px;
+  line-height: 35px;
+  font-size: 0.75rem;
+  color: #999;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+  background-image: url(../content/images/NavBarLeft.png),url(../content/images/NavBarRight.png)!important;
+  background-position: left center,right center;
+  background-repeat: no-repeat,no-repeat;
+  text-shadow: 0 -1px 0 rgba(0,0,0,.25);
+}

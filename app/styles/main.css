@@ -1,0 +1,22 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  position:absolute;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  color: #999;
+  background-color: #000;
+  margin: 0;
+  background-image: url(http://www.lillagula.se/content/images/LillaGula_bkgd_thinner.png);
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: 0 0;
+  overflow:hidden;
+}
