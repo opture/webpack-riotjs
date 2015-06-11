@@ -1,4 +1,7 @@
 require('./lg-address-edit.css');
+if (!Modernizr.input.placeholder) {
+	require('../../../js/polyfills/placeholder');
+}
 <lg-address-edit>
 	<input type="text" class="default col1-1" placeholder="C/O (kan lämnas tom)">
 	<input type="text" class="default col1-1" placeholder="Attention">
