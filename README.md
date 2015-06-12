@@ -7,8 +7,6 @@ Its used with benefit together with this <a href="https://github.com/opture/gene
 There are some conventions to this setup.
 tags are stored under app/tags/
 
-WEbpack requires the tags and the tags requires their respective css file.
-
 To me this is a clear way of doing things. I get to create element totally independently of each other, and I can have a full view 
 of how my tags are created their functions and their css. 
 
