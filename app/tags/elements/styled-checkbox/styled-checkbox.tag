@@ -1,0 +1,2 @@
+<styled-checkbox>
+</styled-checkbox>
